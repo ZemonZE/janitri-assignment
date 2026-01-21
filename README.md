@@ -274,3 +274,7 @@ val request = PeriodicWorkRequestBuilder<ReminderWorker>(5, TimeUnit.HOURS)
 1. Permission not granted on Android 13+
 2. Notification channel not created
 3. App in battery optimization
+
+
+### Application Download Link:
+https://www.upload-apk.com/MRGo8YaX1hXjViC
