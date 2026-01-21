@@ -277,4 +277,4 @@ val request = PeriodicWorkRequestBuilder<ReminderWorker>(5, TimeUnit.HOURS)
 
 
 ### Application Download Link:
-https://www.upload-apk.com/MRGo8YaX1hXjViC
+https://www.upload-apk.com/hZniycWKFwCHet3

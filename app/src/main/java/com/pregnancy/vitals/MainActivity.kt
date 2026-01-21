@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
         }
         
         // Schedule reminder (testMode = true for 1 minute testing, false for 5 hours production)
-        AppModule.scheduleVitalsReminder(this, testMode = true)
+        AppModule.scheduleVitalsReminder(this, testMode = false)
         
         setContent {
             PregnancyVitalsTrackerTheme {
