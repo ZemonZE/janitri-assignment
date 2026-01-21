@@ -62,7 +62,7 @@ class NotificationHelper(private val context: Context) {
         )
 
         val notification = NotificationCompat.Builder(context, NotificationConstants.CHANNEL_ID)
-            .setSmallIcon(R.drawable.ic_launcher_foreground)
+            .setSmallIcon(R.mipmap.pregnancytracker_foreground)
             .setContentTitle(title)
             .setContentText(body)
             .setAutoCancel(true)
